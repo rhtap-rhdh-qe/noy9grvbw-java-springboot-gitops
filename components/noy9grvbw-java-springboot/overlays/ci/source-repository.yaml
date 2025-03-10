@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: noy9grvbw-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/noy9grvbw-java-springboot
